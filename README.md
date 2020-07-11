@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-### Welcome to my Git 👋
+### Welcome to my GitHub 👋
 
  - 📊 Software Engineer 
  - 📚 Currently studying Azure and Cloud Architecture
