@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-### Welcome to my profile 👋
+### Welcome to my Git 👋
 
  - 📊 Software Engineer 
  - 📚 Currently studying Azure and Cloud Architecture
