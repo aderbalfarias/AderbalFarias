@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 :man_technologist:
 
--->
-
 # Aderbal Farias [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aderbalfarias/)](https://www.linkedin.com/in/aderbalfarias/)
 
-### Welcome to my profile 👋 
+-->
+
+### Welcome to my profile [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aderbalfarias/)](https://www.linkedin.com/in/aderbalfarias/)
 
  - 📊 Software Engineer 
  - 📚 Currently studying Azure and Cloud Architecture
