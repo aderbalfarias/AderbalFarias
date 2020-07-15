@@ -28,4 +28,3 @@ Here are some ideas to get you started:
  - 💬 "We become what we think about" 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aderbalfarias/)](https://www.linkedin.com/in/aderbalfarias/)
-[![Linkedin Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Email&logoColor=white&link=aderbalfarias@hotmail.com)](aderbalfarias@hotmail.com)
