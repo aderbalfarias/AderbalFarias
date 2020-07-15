@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### Welcome to my GitHub 👋
 
- - 📊 Software Engineer 
- - 📚 Currently studying Azure and Cloud Architecture
+ - 🔭 Software Engineer | Full Stack Developer
+ - 📚 I am currently learning Azure and Cloud Architecture
  - 🌍 I really enjoy coding and learning
  - 💬 "We become what we think about" 
 
