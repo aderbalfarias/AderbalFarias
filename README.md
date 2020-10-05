@@ -36,11 +36,20 @@ Here are some ideas to get you started:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderbalfarias&layout=compact"
     />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <!--
+     <a href="https://github.com/anuraghazra/convoychat">
+       <img
+         align="center"
+         height="165"
+         src="https://github-readme-stats.vercel.app/api?username=aderbalfarias&count_private=true&show_icons=true&hide=issues"
+       /> 
+     </a>
+   -->
+   <a href="https://github.com/anuraghazra/convoychat">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=aderbalfarias&count_private=true&show_icons=true&hide=issues"
-    />
-  </a>
+      src="https://github-readme-stats.vercel.app/api?username=aderbalfarias&count_private=true&show_icons=true"
+    /> 
+   </a>
 </p>
