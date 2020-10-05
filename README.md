@@ -1,6 +1,6 @@
 <!--
 
-### Hi there 👋
+### Hi there
 
 **AderbalFarias/AderbalFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 -->
 
-### Welcome to my GitHub 👋
+### Welcome to my GitHub
 
  - 🔭 Software Engineer | Full Stack Developer
  - 📚 I am currently learning Azure and Cloud Architecture
