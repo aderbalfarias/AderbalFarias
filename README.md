@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
  - 🔭 Software Engineer | Full Stack Developer
  - 📚 I am currently learning Azure and Cloud Architecture
- - 🌍 I really enjoy coding and learning
  - 💬 "We become what we think about" 
 
 <p align="center">
