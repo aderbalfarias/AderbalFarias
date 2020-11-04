@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderbalfarias&layout=compact"
     />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="#">
     <img
       align="center"
       height="165"
