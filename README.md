@@ -6,7 +6,7 @@ I'm from Brazil, currently living in Dublin, Ireland
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xx&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&border=FFFFFF&fire=58A6FF&ring=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&stroke=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF)](https://git.io/streak-stats)
 
-<p align="center">
+<p align="left">
   <!--<a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
