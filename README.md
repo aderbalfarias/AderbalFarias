@@ -13,7 +13,7 @@ I'm from Brazil, currently living in Dublin, Ireland
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderbalfarias&layout=compact&text_color=58A6FF&bg_color=0D1117"
     />
   </a> --> 
-  <a href="#">
+    <!--<a href="#">
     <img
       align="center"
       height="165"
@@ -26,7 +26,7 @@ I'm from Brazil, currently living in Dublin, Ireland
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderbalfarias&layout=compact&text_color=58A6FF&bg_color=0D1117"
     />
   </a>
-  <!--
+
   <a href="https://github.com/anuraghazra/convoychat">
    <img
      align="center"
